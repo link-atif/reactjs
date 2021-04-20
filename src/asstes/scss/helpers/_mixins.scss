@@ -1,0 +1,88 @@
+/*fonts start*/
+
+/*fonts end*/
+
+/*breakpoints start*/
+@mixin breakpoint($point) {
+  @if $point==xs {
+    @media (max-width: 575px) {
+      @content;
+    }
+  }
+  
+  @else if $point==sm {
+    @media (max-width: 767px) {
+      @content;
+    }
+  }
+
+  @else if $point==md {
+    @media (max-width: 992px) {
+      @content;
+    }
+  }
+
+  @else if $point==lg {
+    @media (max-width: 1199px) {
+      @content;
+    }
+  }
+  
+  @else {
+    @media (max-width: $point) {
+      @content;
+    }
+  }
+}
+/*breakpoints end*/
+
+/*border radius start*/
+@mixin border-radius($topLeft, $topRight, $bottomRight, $bottomLeft) {
+  border-radius: $topLeft $topRight $bottomRight $bottomLeft;
+  -moz-border-radius: $topLeft $topRight $bottomRight $bottomLeft;
+  -webkit-border-radius: $topLeft $topRight $bottomRight $bottomLeft;
+}
+/*border radius end*/
+
+/*box-shadow start*/
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow: inset $top $left $blur $color;
+    -moz-box-shadow: inset $top $left $blur $color;
+    box-shadow: inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+/*box-shadow end*/
+
+/*blur start*/
+@mixin blur($val) {
+  filter: blur($val);
+  -moz-filter: blur($val);
+  -webkit-filter: blur($val);
+}
+/*blur radius end*/
+
+@mixin rotate($val) {
+  -ms-transform: rotate($val); /* IE 9 */
+  -webkit-transform: rotate($val); /* Safari prior 9.0 */
+  transform: rotate($val); /* Standard syntax */
+}
+
+@mixin placeholder {
+  input::-webkit-input-placeholder {
+    @content;
+  }
+  input::-moz-placeholder {
+    @content;
+  }
+  input::-moz-placeholder {
+    @content;
+  }
+  input::-ms-input-placeholder {
+    @content;
+  }
+}

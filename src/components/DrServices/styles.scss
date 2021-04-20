@@ -1,0 +1,27 @@
+.dr-service-main
+{
+  // background-color: rgba($color: #041242, $alpha: 0.03);
+  margin-top: 30px;
+  // padding: 40px;
+  border-radius: 5px;
+}
+.dr-service-inner
+{
+  background-color: rgba($color: #041242, $alpha: 0.04);
+  width: 100%;
+  min-height: 200px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.dr-service-heading
+{
+  font-size: 24px !important;
+  color: rgba($color: #041242, $alpha: 0.8);
+}
+.dr-service-links a
+{
+  display: block;
+  margin: 5px 0;
+  color: rgba($color: #041242, $alpha: 1.0);
+  margin-left: 8px;
+}

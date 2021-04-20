@@ -1,0 +1,90 @@
+@import '../../../asstes/scss/helpers/variables';
+
+.profile-wrapper {
+  box-shadow: 2px 4px 2px #ececec;
+  background-color: $white;
+  position: relative; 
+  padding: 30px;
+  padding-left: 220px;
+  border-radius: 4px;
+
+  .profile-dp {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    width: 160px;
+    height: 160px;
+    border-radius: 100%;
+    background: #ccc;
+    box-shadow: 7px 7px 8px #dbe0e0;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .profile-detail {
+    h1 {
+      font-size: 24px;
+      font-weight: 600;
+      line-height: 48px;
+      padding-right: 0;
+      margin-bottom: 0;
+    }
+
+    .designation {
+      color: $header-color;
+      margin-bottom: 40px;
+    }
+
+    h2 {
+      border-bottom: 1px solid $steel;
+      margin-bottom: 30px;
+      font-size: 20px;
+      color: $steel;
+      font-weight: 600;
+    }
+
+    .data-row {
+      margin-bottom: 15px;
+      &:after {
+        content: '';
+        display: table;
+        clear: both;
+      }
+
+      label {
+        width: 160px;
+        float: left;
+        margin-right: 10px;
+      }
+
+      .item {
+        float: left;
+
+      }
+    }
+
+    .edit-profile {
+      position: absolute;
+      right: 0;
+      width: auto;
+      top: 10px;
+    }
+  }
+}
+
+.change-password {
+  box-shadow: 2px 4px 2px #ececec;
+  background-color: $white;
+  position: relative; 
+  padding: 30px;
+  border-radius: 4px;
+}
+
+.react-bs-table-container {
+  .react-bs-table-tool-bar {
+    margin-top: -90px
+  }
+}

@@ -1,0 +1,182 @@
+(electron) 'setZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+(electron) 'getZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1165:30
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+(electron) 'setClosable function' is deprecated and will be removed. Please use 'closable property' instead.
+(electron) 'setZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+(electron) 'getZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+(electron) 'setZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+(electron) 'getZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+2020-07-20 11:29:16.568 Skype[14811:990509] Download completed to: file:///var/root/Library/Caches/com.skype.skype.ShipIt/update.Tr42LG6/Skype-8.62.0.85.zip
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'window:is-fullscreen': Error: Unknown window!
+    at /Applications/Skype.app/Contents/Resources/app.asar/MainWindow.js:492:35
+    at electron/js2c/browser_init.js:1148:52
+    at WebContents.<anonymous> (electron/js2c/browser_init.js:3923:43)
+    at WebContents.emit (events.js:203:13)
+Error occurred in handler for 'window:is-fullscreen': Error: Unknown window!
+    at /Applications/Skype.app/Contents/Resources/app.asar/MainWindow.js:492:35
+    at electron/js2c/browser_init.js:1148:52
+    at WebContents.<anonymous> (electron/js2c/browser_init.js:3923:43)
+    at WebContents.emit (events.js:203:13)
+Error occurred in handler for 'window:is-fullscreen': Error: Unknown window!
+    at /Applications/Skype.app/Contents/Resources/app.asar/MainWindow.js:492:35
+    at electron/js2c/browser_init.js:1148:52
+    at WebContents.<anonymous> (electron/js2c/browser_init.js:3923:43)
+    at WebContents.emit (events.js:203:13)
+2020-07-20 17:45:14.637 Skype[14811:1489936] Download completed to: file:///var/root/Library/Caches/com.skype.skype.ShipIt/update.Exr8cXp/Skype-8.62.0.85.zip
+2020-07-21 11:14:48.396 Skype[14811:1809122] Download completed to: file:///var/root/Library/Caches/com.skype.skype.ShipIt/update.X98Pi98/Skype-8.62.0.85.zip
+Error occurred in handler for 'wam-auth:clear-token-cache': No handler registered for 'wam-auth:clear-token-cache'
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+(electron) 'setResizable function' is deprecated and will be removed. Please use 'resizable property' instead.
+(electron) 'setMaximizable function' is deprecated and will be removed. Please use 'maximizable property' instead.
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1148:30
+2020-07-21 17:14:49.838 Skype[14811:2121280] Download completed to: file:///var/root/Library/Caches/com.skype.skype.ShipIt/update.m1ClyWY/Skype-8.62.0.85.zip
+2020-07-22 12:45:08.737 Skype[14811:2448463] Download completed to: file:///var/root/Library/Caches/com.skype.skype.ShipIt/update.fMTJF5Z/Skype-8.62.0.85.zip
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:658420
+    at async electron/js2c/browser_init.js:6048:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:658420
+    at async electron/js2c/browser_init.js:6048:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:658420
+    at async electron/js2c/browser_init.js:6048:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:658420
+    at async electron/js2c/browser_init.js:6048:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:658420
+    at async electron/js2c/browser_init.js:6048:30
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:658420
+    at async electron/js2c/browser_init.js:6048:30
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:658420
+    at async electron/js2c/browser_init.js:6048:30
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:599852
+    at async electron/js2c/browser_init.js:6048:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:599852
+    at async electron/js2c/browser_init.js:6048:30
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:599852
+    at async electron/js2c/browser_init.js:6048:30
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:599852
+    at async electron/js2c/browser_init.js:6048:30
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:599852
+    at async electron/js2c/browser_init.js:6048:30
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:599852
+    at async electron/js2c/browser_init.js:6048:30
+2021-03-04 11:34:52.030 Skype[24657:2402404] Download completed to: file:///var/root/Library/Caches/com.skype.skype.ShipIt/update.qfbg5rY/Skype-8.69.0.88.zip
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:599852
+    at async electron/js2c/browser_init.js:6048:30
+2021-03-04 11:42:26.964 Skype[25403:2411957] Download completed to: file:///var/root/Library/Caches/com.skype.skype.ShipIt/update.JhqlWan/Skype-8.69.0.88.zip
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+(node:92318) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+2021-03-19 18:41:55.140 Skype Helper (Renderer)[92323:3655775] CoreText note: Client requested name ".SFNSDisplay-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:41:55.140 Skype Helper (Renderer)[92323:3655775] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+2021-03-19 18:41:55.144 Skype Helper (Renderer)[92323:3655775] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:609209
+    at async electron/js2c/browser_init.js:197:563
+2021-03-19 18:41:55.921 Skype Helper (Renderer)[92323:3655775] CoreText note: Client requested name ".SFNSDisplay-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:41:55.921 Skype Helper (Renderer)[92323:3655775] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:41:55.922 Skype Helper (Renderer)[92323:3655775] CoreText note: Client requested name ".SFNSDisplay-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:41:55.922 Skype Helper (Renderer)[92323:3655775] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+(node:92435) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+2021-03-19 18:43:29.828 Skype Helper (Renderer)[92440:3657056] CoreText note: Client requested name ".SFNSDisplay-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:43:29.828 Skype Helper (Renderer)[92440:3657056] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+2021-03-19 18:43:29.833 Skype Helper (Renderer)[92440:3657056] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:609209
+    at async electron/js2c/browser_init.js:197:563
+2021-03-19 18:43:30.626 Skype Helper (Renderer)[92440:3657056] CoreText note: Client requested name ".SFNSDisplay-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:43:30.626 Skype Helper (Renderer)[92440:3657056] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:43:30.627 Skype Helper (Renderer)[92440:3657056] CoreText note: Client requested name ".SFNSDisplay-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:43:30.627 Skype Helper (Renderer)[92440:3657056] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+(node:92521) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+2021-03-19 18:44:09.897 Skype Helper (Renderer)[92526:3658102] CoreText note: Client requested name ".SFNSDisplay-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:44:09.897 Skype Helper (Renderer)[92526:3658102] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+2021-03-19 18:44:09.902 Skype Helper (Renderer)[92526:3658102] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:609209
+    at async electron/js2c/browser_init.js:197:563
+2021-03-19 18:44:11.163 Skype Helper (Renderer)[92526:3658102] CoreText note: Client requested name ".SFNSDisplay-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:44:11.163 Skype Helper (Renderer)[92526:3658102] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:44:11.165 Skype Helper (Renderer)[92526:3658102] CoreText note: Client requested name ".SFNSDisplay-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-19 18:44:11.176 Skype Helper (Renderer)[92526:3658102] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+(node:10328) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+2021-03-27 18:01:12.987 Skype Helper (Renderer)[10335:2673143] CoreText note: Client requested name ".SFNSDisplay-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-27 18:01:12.987 Skype Helper (Renderer)[10335:2673143] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+2021-03-27 18:01:12.993 Skype Helper (Renderer)[10335:2673143] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /Applications/Skype.app/Contents/Resources/app.asar/main.js:2:609209
+    at async electron/js2c/browser_init.js:197:563
+2021-03-27 18:01:14.310 Skype Helper (Renderer)[10335:2673143] CoreText note: Client requested name ".SFNSDisplay-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-27 18:01:14.310 Skype Helper (Renderer)[10335:2673143] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Heavy", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-27 18:01:14.311 Skype Helper (Renderer)[10335:2673143] CoreText note: Client requested name ".SFNSDisplay-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2021-03-27 18:01:14.312 Skype Helper (Renderer)[10335:2673143] CoreText note: Client requested name ".HelveticaNeueDeskInterface-Light", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].

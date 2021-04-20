@@ -1,0 +1,50 @@
+@import '../../../asstes/scss/helpers/variables';
+@import '../../../asstes/scss/helpers/mixins';
+
+.custom-modal {
+  background: $white;
+  padding: 40px 50px;
+
+  h2 {
+    font-size: 22px;
+    font-weight: 300;
+    color: $primary;
+    position: relative;
+    margin: -18px 0 54px;
+
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: -15px;
+      left: -50px;
+      right: -50px;
+      height: 1px;
+      border-bottom: 1px solid #efeeee;
+    }
+  }
+
+  p {
+    color: $primary;
+  }
+
+  .actions {
+    text-align: center;
+    margin-top: 30px;
+
+    button {
+      margin: 0 3px;
+    }
+  }
+
+  &.sm {
+    max-width: 540px;
+  }
+
+  &.md {
+    max-width: 767px;
+  }
+
+  &.lg {
+    max-width: 980px;
+  }
+}

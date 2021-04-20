@@ -1,0 +1,105 @@
+@import '../../../asstes/scss/helpers/variables';
+@import '../../../asstes/scss/helpers/mixins';
+
+.notification-rightbar {
+	z-index: 1000;
+	width: 280px;
+	color: #242424;
+	position: fixed;
+	right: -300px;
+	top: 63px;
+	bottom: 0;
+	box-shadow: -1px 0px 2px #d4d3d3;
+	transition: 0.3s ease all;
+	background-color: $white;
+
+	h2 {
+		font-size: 14px;
+		text-align: left;
+		font-weight: normal;
+		padding: 17px 15px 17px;
+		border-bottom: 1px solid $light-grey;
+	}
+
+	.close-notification {
+		position: absolute;
+		right: 13px;
+		top: 1px;
+		z-index: 10;
+		cursor: pointer;
+	}
+
+	.inner {
+		overflow-y: scroll;
+		max-height: 100%;
+		
+		ul {
+			li {
+				display: block;
+				text-align: left;
+				font-size: 14px;
+				cursor: pointer;
+				padding: 8px 15px 8px 49px;
+	
+				.list-item {
+					display: block;
+					font-weight: 600;
+					color: $fade;
+				}
+	
+				.date {
+					opacity: 0.6;
+				}
+				
+				svg {
+					position: absolute;
+					left: 13px;
+					color: $primary;
+					opacity: 0.6;
+					top: 50%;
+					transform: translateY(-50%);
+				}
+	
+				&:hover {
+					background-color: $light-grey;
+				}
+			}
+		}
+	}
+
+	&.open {
+		right: 0;
+		transition: 0.3s ease all;
+	}
+}
+
+.nav-snack-container.open {
+
+	&:before {
+		content: '';
+		position: absolute;
+		width: 58px;
+    	height: 64px;
+	}
+
+	.notification-rightbar {
+		right: 0;
+		transition: 0.3s ease all;
+
+	}
+}
+.no-notifications {
+	text-align: center;
+	padding-top: 40px;
+
+	h3 {
+		font-size: 14px;
+		font-weight: 600;
+		margin-bottom: 8px;
+		margin-top: 20px;
+	}
+	P{
+		color: $fade;
+		font-size: 14px;
+	}
+}

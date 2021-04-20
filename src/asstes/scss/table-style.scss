@@ -1,0 +1,77 @@
+.ab-main-table
+{
+  thead
+  {
+    background-color: #fbfbfb !important;
+    tr
+    {
+      th
+      {
+        background: none !important;
+        color: #131313 !important;
+      }
+      th:after
+      {
+        border-bottom-color: #009688 !important;
+      }
+      th:before
+      {
+        border-top-color: #009688 !important;
+      }
+    }
+  }
+  tbody
+  {
+    tr
+    {
+        td:nth-child(5)
+        {
+            color: #4CAF50;
+        }
+    }
+    tr:nth-of-type(odd)
+    {
+      background: none !important;
+      td:nth-child(3)
+      {
+        color: #FF9800;
+      }
+    }
+    tr:nth-of-type(even)
+    {
+      td:nth-child(3)
+      {
+        color: #4CAF50;
+      }
+    }
+  }
+}
+.table-responsive .table-hover tbody tr:hover
+{
+    background-color: rgba(0, 0, 0, 0.075) !important;
+}
+.card .card-body .react-bs-table-tool-bar .Select .Select-control
+{
+    border-color: #009688 !important;
+}
+.card .card-body .react-bs-table-tool-bar .Select .Select-control .Select-multi-value-wrapper .Select-value span
+{
+    color: #009688 !important;
+}
+.Select-arrow
+{
+    border-color: #009688 transparent transparent !important;
+}
+.form-control
+{
+    border-color: #009688 !important;
+    // height: 41px !important;
+}
+.form-control:hover
+{
+    border-color: #009688 !important;
+}
+.form-control::placeholder
+{
+    color: #009688 !important;
+}

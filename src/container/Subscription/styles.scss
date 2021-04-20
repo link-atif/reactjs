@@ -1,0 +1,64 @@
+@import '../../asstes/scss/helpers/variables';
+
+.subscription-wrapper {
+  .data-row {
+    margin-bottom: 18px;
+
+    label {
+      font-weight: 600;
+      display: block;
+      margin-bottom: 0;
+    }
+  }
+
+  .list {
+    padding: 0;
+    margin: 30px 0;
+
+    li {
+      display: block;
+      margin-bottom: 10px;
+
+      a {
+        display: block;
+        padding-left: 32px;
+        position: relative;
+        color: $prussian;
+
+        svg {
+          position: absolute;
+          left: 0;
+          top:50%;
+          transform: translateY(-50%);
+          color: $primary;
+          opacity: 0.75;
+        }
+      }
+    }
+  }
+}
+.card-wraper-new-ui
+{
+  padding: 50px;
+  border-radius: 10px;
+}
+.subcription-tabs button
+{
+  box-shadow: none;
+  color: rgba($color: #041242, $alpha: 0.4);
+  background-color: rgba($color: #041242, $alpha: 0.07);
+}
+.card-wraper-new-ui-1
+{
+  padding: 50px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.card-wraper-new-ui-1 h6{
+  font-size: 15px;
+  color: rgba($color: #041242, $alpha: 0.7);
+}
+.card-wraper-new-ui-1 h6 strong
+{
+  margin-right: 5px;
+}

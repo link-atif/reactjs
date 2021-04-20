@@ -1,0 +1,104 @@
+@import '../../../asstes/scss/helpers/variables';
+
+.edit-profile-wrapper {
+  max-width: 720px;
+  box-shadow: 2px 4px 2px #ececec;
+  background-color: $white;
+  padding: 30px;
+  border-radius: 4px;
+
+  .profile-wrapper {
+    padding-left: 190px;
+    position: relative; 
+    margin-bottom: 30px;
+    box-shadow: none;
+  
+    .edit-img {
+      width: 40px;
+      height: 40px;
+      overflow: hidden;
+      background: $steel;
+      border-radius: 100%;
+      color: $white;
+      position: absolute;
+      left: 123px;
+      z-index: 1;
+      top: 105px;
+
+      svg {
+        position: absolute;
+        left: 9px;
+        top: 9px;
+        font-size: 21px;
+        cursor: pointer;
+      }
+
+      .MuiTextField-root {
+        position: absolute;
+        opacity: 0;
+        left:0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 1;
+        cursor: pointer;
+
+        input {
+          height: 40px;
+          cursor: pointer;
+        }
+      }
+    }
+    .profile-dp {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 160px;
+      height: 160px;
+      border-radius: 100%;
+      background: #ccc;
+      box-shadow: 7px 7px 8px #dbe0e0;
+      overflow: hidden;
+  
+      img {
+        width: 100%;
+      }
+    }
+
+    .title-edit, .designation-edit {
+     input {
+       border: none;
+       border-bottom: 1px solid $alto;
+       background-color: transparent;
+       width: 300px;
+       margin-bottom: 25px;
+     }
+    }
+
+    .title-edit {
+      padding-top: 55px;
+
+      input {
+        font-size: 24px;
+        font-weight: 600;
+      }
+    }
+  }
+
+  h2 {
+    border-bottom: 1px solid $steel;
+    margin-bottom: 45px;
+    font-size: 20px;
+    color: $steel;
+    font-weight: 600;
+    margin-top: 20px;
+  }
+
+  .MuiGrid-spacing-xs-4 {
+    margin-bottom: 16px;
+  }
+
+  .MuiInputBase-input{
+    background-color: $white;
+  }
+}

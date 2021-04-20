@@ -1,0 +1,101 @@
+.natification-Bar-main-ui
+{
+  // max-width: 350px;
+  width: 350px;
+  padding: 30px 0 !important;
+}
+
+.noticication-bar-title-1
+{
+  font-size: 16px !important;
+  color: #0C1015 !important;
+  font-weight: 700 !important;
+  display: inline-block;
+  margin-left: 15px !important;
+}
+.noticication-bar-title
+{
+  font-size: 14px !important;
+  color: #0C1015;
+  font-weight: 600 !important;
+  margin-bottom: 10px !important;
+}
+.noticication-bar-title .MuiBadge-badge
+{
+    left: -12px;
+    top: 12px;
+    right: auto;
+}
+.noticication-bar-text
+{
+  white-space: normal;
+  font-size: 14px !important;
+  color: #0C1015;
+  font-weight: 400;
+  height: 20px;
+  text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.noticication-bar-time
+{
+  font-size: 12px !important;
+  color: #9DA3B0;
+  float: right;
+    font-weight: 400;
+  // margin: 5px 0 !important;
+}
+
+.notication-bar-list-main
+{
+  padding: 15px 30px !important;
+  border-bottom: 1px solid #F8FAFA !important;
+  // background-color: rgba($color: #FD586B, $alpha: 0.05) !important;
+}
+.close
+{
+  margin-right: 20px;
+}
+.notification-bg-light-red
+{
+  background-color: rgba($color: #FD586B, $alpha: 0.05);
+}
+.notfy-img
+{
+  font-size: 14px !important;
+    font-weight: 600;
+    background-color: #0AE2B3 !important;
+}
+.unread-btn
+{
+  background-color: rgba($color: #0AE2B3, $alpha: 0.08);
+  color: #0AE2B3;
+    display: block;
+    border-radius: 10px;
+    border: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    padding: 12px 30px;
+    font-weight: 600;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+.unread-btn:hover
+{
+  background-color:rgba($color: #0AE2B3, $alpha: 0.5);
+  color: #ffffff;
+}
+.notify-dot
+{
+  .MuiBadge-colorSecondary
+  {
+    background-color: #70e3b4;
+  }
+  .MuiBadge-dot
+  {
+    min-width: 5px !important;
+    height: 5px !important;
+  }
+}

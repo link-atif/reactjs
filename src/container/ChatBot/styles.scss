@@ -1,0 +1,20 @@
+.botMain
+{
+    align-items: center;
+    display: inline-flex;
+}
+.botouter
+{
+    .MuiBackdrop-root
+    {
+        background: none;
+    }
+    .MuiDrawer-paperAnchorBottom
+    {
+        width: 400px;
+        left: auto;
+        right: 5px;
+        bottom: 5px;
+        border-radius: 10px;
+    }
+}

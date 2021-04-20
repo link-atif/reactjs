@@ -1,0 +1,15 @@
+.dashboard {
+  padding: 62px 0px 30px 56px;
+
+  &.expended {
+    padding-left: 280px;
+
+    &.with-sub-leftbar {
+      width: 537px;
+    }
+  }
+
+  &.full {
+    padding-left: 0;
+  }
+}

@@ -1,0 +1,41 @@
+.natification-Bar-main-ui
+{
+  // max-width: 350px;
+  width: 350px;
+  padding: 30px 0 !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.noticication-bar-title-1
+{
+  font-size: 20px !important;
+  color: rgba($color: #041242, $alpha: 0.8) !important;
+  font-weight: 600 !important;
+  display: inline-block;
+  font-family: 'Poppins', sans-serif !important;
+  margin-left: 15px;
+}
+.noticication-bar-text
+{
+  white-space: normal;
+  font-size: 13px;
+  color: rgba($color: #041242, $alpha: 0.4);
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.noticication-bar-time
+{
+  float: right;
+  font-size: 10px;
+  color: rgba($color: #041242, $alpha: 0.4);
+  font-family: 'Poppins', sans-serif !important;
+}
+.natification-Bar-main
+{
+  
+}
+.notication-bar-list-main
+{
+  padding: 20px 20px !important;
+  border-bottom: 1px solid rgba($color: #041242, $alpha: 0.1) !important;
+}
